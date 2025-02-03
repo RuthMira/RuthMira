@@ -54,3 +54,5 @@ Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop*
 Adoro aprender com outros desenvolvedores e trocar experiências. Se você tiver algum projeto interessante ou deseja compartilhar algo sobre tecnologia, ficarei feliz em conversar! 😊
 
 ![Snake animation](https://github.com/RuthMira/RuthMira/blob/output/github-contribution-grid-snake.svg)
+
+
