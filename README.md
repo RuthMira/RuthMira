@@ -104,6 +104,5 @@ Você pode gerar a animação da cobrinha usando o repositório **GitHub Contrib
 
 Depois de adicionar a animação e garantir que o arquivo `.svg` esteja acessível no seu repositório, você verá a cobrinha animada na sua página de contribuições no GitHub.
 
-Se precisar de mais algum passo ou ajustes, me avise!
-
+ https://myoctocat.com/
 
