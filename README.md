@@ -2,10 +2,8 @@
 
 Desenvolvedora apaixonada por programação e soluções criativas! 🚀  
 Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop** e **Automação**.
+
 ---
-
-[![RuthMira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthMira&theme=tokyo-night)](https://github.com/RuthMira)
-
 
 ## 📈 Minhas Estatísticas
 
@@ -54,6 +52,8 @@ Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop*
 ## 💬 Vamos conversar!
 
 Adoro aprender com outros desenvolvedores e trocar experiências. Se você tiver algum projeto interessante ou deseja compartilhar algo sobre tecnologia, ficarei feliz em conversar! 😊
+
+[![RuthMira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthMira&theme=tokyo-night)](https://github.com/RuthMira)
 
 
 
