@@ -17,7 +17,7 @@ Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop*
 
 - [**Meu Repositório de Aprendizado**](https://github.com/RuthMira/learning-repository): Repositório com estudos, desafios e recursos sobre desenvolvimento.
 - [**Automatizando com Python**](https://github.com/RuthMira/Projeto-RUDA): Um projeto de automação usando Python para resolver problemas cotidianos.
-- [**Portfolio Pessoal**](https://github.com/RuthMira/portfolio): Meu portfolio de projetos, criado com React.
+- [**Portfolio Pessoal**](https://github.com/RuthMira/meu-portifolio): Meu portfolio de projetos, criado com React.
 
 ---
 
