@@ -1,7 +1,7 @@
 # Olá! Eu sou a Ruth Mira 👋
 
 Desenvolvedora apaixonada por programação e soluções criativas! 🚀  
-Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web** e **Automação**.
+Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop** e **Automação**.
 
 ---
 
@@ -25,8 +25,12 @@ Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web** e **Auto
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+[![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+[![.NET](https://img.shields.io/badge/.NET-blueviolet?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
 
 ---
 
@@ -34,14 +38,14 @@ Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web** e **Auto
 
 - **React** para criar interfaces interativas.
 - **Node.js** para desenvolvimento backend.
-- **Automação de testes** e ferramentas como Selenium.
+- **Automação de testes** e ferramentas como Selenium e Tesseract.
 
 ---
 
 ## 📫 Como me Encontrar
 
-- **Email**: 
-- **LinkedIn**: 
+- **E-mail**: ruthsilvamira@gmail.com
+- **LinkedIn**: [Ruth Mira](https://www.linkedin.com/in/ruthmira)
 
 ---
 
