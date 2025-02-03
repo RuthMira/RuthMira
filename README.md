@@ -5,8 +5,6 @@ Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop*
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RuthMira&theme=github)
-
 
 ## 📈 Minhas Estatísticas
 
