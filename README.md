@@ -10,9 +10,11 @@
 
 [![RuthMira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthMira&theme=tokyo-night)](https://github.com/RuthMira)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RuthMira&show_icons=true&theme=radical)
+| Projeto                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| [**Automatizando com Python**](https://github.com/RuthMira/Projeto-RUDA) | Um projeto de automação usando Python para resolver problemas cotidianos. |
+| [**Portfolio Pessoal**](https://github.com/RuthMira/meu-portifolio) | Meu portfolio de projetos, criado com React.                              |
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMira&layout=compact&theme=radical)
 
 ---
 
