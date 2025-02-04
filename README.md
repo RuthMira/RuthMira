@@ -4,18 +4,15 @@
 - Desenvolvedora apaixonada por programação e soluções criativas! 🚀  
 - Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop** e **Automação**.
 
----
 
 ## 📈 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RuthMira&show_icons=true&theme=radical)  
-&nbsp;&nbsp;&nbsp;
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMira&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RuthMira&show_icons=true&theme=radical)  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMira&layout=compact&theme=radical)
 
 ### Atividades
 
 [![RuthMira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthMira&theme=tokyo-night)](https://github.com/RuthMira)
----
+
 
 ## 🌟 Projetos Destacados - a construir
 
@@ -23,7 +20,7 @@
 - [**Automatizando com Python**](https://github.com/RuthMira/Projeto-RUDA): Um projeto de automação usando Python para resolver problemas cotidianos.
 - [**Portfolio Pessoal**](https://github.com/RuthMira/meu-portifolio): Meu portfolio de projetos, criado com React.
 
----
+
 
 ## 🚀 Minhas Habilidades
 
@@ -36,7 +33,6 @@
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 [![.NET](https://img.shields.io/badge/.NET-blueviolet?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
 
----
 
 ## 🎯 Atualmente Aprendendo
 
@@ -44,14 +40,14 @@
 - **Node.js** para desenvolvimento backend.
 - **Automação de testes** e ferramentas como Selenium e Tesseract.
 
----
+
 
 ## 📫 Como me Encontrar
 
 - **E-mail**: ruthsilvamira@gmail.com
 - **LinkedIn**: [Ruth Mira](https://www.linkedin.com/in/ruthmira)
 
----
+
 
 ## 💬 Vamos conversar!
 
