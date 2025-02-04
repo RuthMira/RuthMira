@@ -8,14 +8,13 @@
 
 ## 📈 Minhas Estatísticas
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RuthMira&show_icons=true&theme=radical)  
+&nbsp;&nbsp;&nbsp;
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMira&layout=compact&theme=radical)
+
+### Atividades
+
 [![RuthMira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthMira&theme=tokyo-night)](https://github.com/RuthMira)
-
-| Estatísticas do GitHub | Linguagens Mais Usadas |
-|------------------------|------------------------|
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RuthMira&show_icons=true&theme=radical) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMira&layout=compact&theme=radical) |
-
-
-
 ---
 
 ## 🌟 Projetos Destacados - a construir
