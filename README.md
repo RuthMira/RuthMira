@@ -55,5 +55,8 @@ Adoro aprender com outros desenvolvedores e trocar experiências. Se você tiver
 
 [![RuthMira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthMira&theme=tokyo-night)](https://github.com/RuthMira)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuthMira&show_icons=true&theme=dracula)
+
+
 
 
