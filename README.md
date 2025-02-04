@@ -1,8 +1,8 @@
- ![Olá! Eu sou a Ruth Mira](https://readme-typing-svg.herokuapp.com/?color=800080&size=30&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Ruth+Mira)
+![Olá! Eu sou a Ruth Mira](https://readme-typing-svg.herokuapp.com/?color=800080&size=30&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Ruth+Mira)
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Desenvolvedora apaixonada por programação e soluções criativas! 🚀  
-Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop** e **Automação**.
+- Desenvolvedora apaixonada por programação e soluções criativas! 🚀  
+- Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop** e **Automação**.
 
 ---
 
@@ -55,10 +55,3 @@ Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop*
 ## 💬 Vamos conversar!
 
 Adoro aprender com outros desenvolvedores e trocar experiências. Se você tiver algum projeto interessante ou deseja compartilhar algo sobre tecnologia, ficarei feliz em conversar! 😊
-
-
-
-
-
-
-
