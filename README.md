@@ -1,4 +1,9 @@
-# Olá! Eu sou a Ruth Mira 👋
+# Olá! Eu sou a Ruth Mira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+
+# ![Olá! Eu sou a Ruth Mira](https://readme-typing-svg.herokuapp.com/?color=F77272&size=30&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+a+Ruth+Mira!;Bem-vindo+ao+meu+perfil!🚀)
+
+
 
 Desenvolvedora apaixonada por programação e soluções criativas! 🚀  
 Atualmente, estou focada em aprender mais sobre **Desenvolvimento Web / Desktop** e **Automação**.
@@ -56,7 +61,6 @@ Adoro aprender com outros desenvolvedores e trocar experiências. Se você tiver
 [![RuthMira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthMira&theme=tokyo-night)](https://github.com/RuthMira)
 
 
-![Snake animation](https://github.com/RuthMira/RuthMira/blob/output/github-contribution-grid-snake.svg)
 
 
 
